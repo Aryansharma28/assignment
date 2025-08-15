@@ -27,7 +27,7 @@ export default function App() {
               fontSize: '2.5rem',
               fontWeight: 'bold',
             }}>
-              Turff
+              E-commerce App
             </h1>
           </Link>
         </header>
